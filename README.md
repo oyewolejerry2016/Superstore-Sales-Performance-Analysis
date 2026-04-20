@@ -215,11 +215,11 @@ The `vw_store_profile` and `vw_tier_summary` views built in this project provide
 
 ## 👤 Author
 
-**[Your Name]**  
-Data Analyst | SQL · Python · Power BI
+**[Oyewole Jeremiah Oladayo]**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/oyewole-jeremiah-9711a3231)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oyewolejerry2016)
 
 ---
 
