@@ -218,7 +218,7 @@ The `vw_store_profile` and `vw_tier_summary` views built in this project provide
 **[Oyewole Jeremiah Oladayo]**  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/oyewole-jeremiah-9711a3231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/oyewole-jeremiah-9711a3231/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oyewolejerry2016)
 
 ---
